@@ -11,7 +11,7 @@ nav {
 }
 
 .nav-item {
-    	align-self: center;
+  	align-self: center;
 	background-color: white;
 }
 
@@ -21,10 +21,10 @@ nav {
 
 #nav-link-top {
 	padding-left: 5em;
-    	color: #999;
-    	font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    	list-style: none;
-    	font-weight: bold;
+	color: #999;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	list-style: none;
+	font-weight: bold;
 }
 
 #nav-link-top:hover {
@@ -44,7 +44,7 @@ main {
 }
 
 p{
-    	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: 150%;
 	padding-left: 1em;
 	padding-right: 1em;
@@ -79,4 +79,8 @@ footer {
 	background-color: rgba(255, 255, 255, 0.9);
 	padding: 3em;
 	z-index: 0;
+}
+
+ul {
+	list-style-type: none;
 }
