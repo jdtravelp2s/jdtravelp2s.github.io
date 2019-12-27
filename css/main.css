@@ -21,14 +21,14 @@ nav {
 
 #nav-link-top {
 	padding-left: 5em;
-    	color: #555;
+    	color: #999;
     	font-family:'Helvetica', 'Arial', 'Sans-Serif';
     	list-style: none;
     	font-weight: bold;
 }
 
 #nav-link-top:hover {
-	color: #4532CC;
+	color: #222;
 }
 
 .navbar-toggler {
