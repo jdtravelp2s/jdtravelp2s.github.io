@@ -7,13 +7,13 @@ title : JD P2S Travel
 
 Do you dream of a vacation on tropical Islands?
 
-![alt text](https://github.com/jdtravelp2s/jdtravelp2s.github.io/tree/master/assets/cottages-beach.jpg)
+![alt text](https://github.com/jdtravelp2s/jdtravelp2s.github.io/tree/master/assets/cottages-beach.jpg "beach")
 
 Do you prefer a city sightseeing tour?
 
-![alt text](https://github.com/jdtravelp2s/jdtravelp2s.github.io/tree/master/assets/orange-powerboat.jpg)
+![alt text](https://github.com/jdtravelp2s/jdtravelp2s.github.io/tree/master/assets/orange-powerboat.jpg "venice")
 
 Or a skying trip in snowy mountains?
 
-![alt text](https://github.com/jdtravelp2s/jdtravelp2s.github.io/tree/master/assets/mountains.jpg)
+![alt text](https://github.com/jdtravelp2s/jdtravelp2s.github.io/tree/master/assets/mountains.jpg "mountains")
 
