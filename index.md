@@ -7,15 +7,12 @@ title : JD P2S Travel
 
 Do you dream of a vacation on tropical Islands?
 
-![](/assets/cottages-beach.jpg "beach")
-
 <img class="d-block w-100 img-fluid" src="/assets/cottages-beach.jpg" alt="">
 
 Do you prefer a city sightseeing tour?
 
-![](/assets/orange-powerboat.jpg "venice")
+<img class="d-block w-100 img-fluid" src="/assets/orange-powerboat.jpg" alt="">
 
 Or a trip in snowy mountains?
 
-![](/assets/mountains.jpg "mountains")
-
+<img class="d-block w-100 img-fluid" src="/assets/mountains.jpg" alt="">
