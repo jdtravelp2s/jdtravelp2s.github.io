@@ -6,7 +6,7 @@ nav {
 	padding-top: 0;
 	position: fixed !important;
 	background-color: #fff;
-	margin: 1em;
+	margin-top: 1em;
 	z-index: 99;
 }
 
@@ -39,7 +39,7 @@ nav {
 }
 
 main {
-	width: 100%;
+	width: 95vw;
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 2.5em;
