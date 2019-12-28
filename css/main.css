@@ -39,7 +39,7 @@ nav {
 }
 
 main {
-	width: 95vw;
+	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 2.5em;
@@ -73,7 +73,6 @@ footer {
 
 .container {
 	background-color: rgba(255, 255, 255, 0.9);
-	padding: 3em;
 	z-index: 0;
 }
 
