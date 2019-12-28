@@ -35,7 +35,7 @@ nav {
 	border: none;
 	width: 1.5em;
 	position: absolute;
-	right: 1em;
+	right: 2em;
 }
 
 main {
@@ -46,8 +46,6 @@ main {
 p{
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: 150%;
-	padding-left: 1em;
-	padding-right: 1em;
 }
 
 h1 {
