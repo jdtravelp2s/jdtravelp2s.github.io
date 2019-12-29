@@ -47,7 +47,7 @@ The titanium membership cost 129.95$ one-time fee (this includes your first mont
 
 I know, I told you you'll get paid and now you have to pay? But wait, there's more to the patnership than the monthly fee. You  can convince people to join P2S Travel as members of your team, you'll get paid for every member you enroll and you'll get paid again for every member your team enrolls and their teams and so on! Even better, you'll get a monthly salary depending on how many members your team has! Your monthly is automatically paid for as soon as your team reaches two members! And, don't forget the travel points I talked about earlier, the monthly fee is converted in travel points even if you don't pay for it yourself!
 
-[Here all in great detail](http://global.paid2save.com/include/compplan.pdf). It's not easy at first, but if read all of it carefully I'm sure you'll understand how P2S works. Feel free to write me an email and ask any questions you want! (write #p2s in the object field to make sure your email doesn't end up in my spam folder).
+[Here all in great detail](http://global.paid2save.com/include/compplan.pdf). It's not easy at first, but if read all of it carefully I'm sure you'll understand how P2S works. Feel free to write me an email and ask any questions you want! (write #p2s at the beginning of your email to make sure it doesn't end up in my spam folder).
 
 # How to join?
 
