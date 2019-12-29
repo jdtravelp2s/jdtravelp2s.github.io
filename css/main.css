@@ -47,10 +47,10 @@ main {
 
 p{
 	font-family: Georgia, 'Times New Roman', Times, serif;
-	font-size: 150%;
+	font-size: 120%;
 }
 
-h1 {
+h1, h2 {
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: 200%;
 	font-weight: bold;
