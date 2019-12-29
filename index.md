@@ -55,5 +55,6 @@ You've read this thread and you're ready to join us?
 
 [Join the adventure here!](https://p2stravel.com/join/jdtravelp2s)
 
+# I'm part of the team, what's next?
 
-
+Fear not! You're not alone. As soon as you've joined the team I will be notified and will reach out to you in 48 hours max. Feel free to send me an email as soon as you've registered to speed up the process. From there I will get you all the keys for your success.
