@@ -4,7 +4,7 @@ title : Booking websites compared prices
 Date : 2019-12-30
 ---
 
-It an be challenging to find the best deal when it comes to planing your trip. I struggled a lot finding the lowest price or the best price/value ratio for a lot of trips in past. Usually I started googling in search of hotels in the city I wanted to visit, then picking the one I liked the most (or the ones I could afford), and then began the real struggle: finding the lowest price for a particular hotel. There are a ton of booking websites! There is booking.com, trivago, hotel.com... you can search all day before you're 100% sure you booked at the lowest price! Even the site comparing prices don't always have the same results!
+It can be challenging to find the best deal when it comes to planing your trip. I struggled a lot finding the lowest price or the best price/value ratio for a lot of trips in past. Usually I started googling in search of hotels in the city I wanted to visit, then picking the one I liked the most (or the ones I could afford), and then began the real struggle: finding the lowest price for a particular hotel. There are a ton of booking websites! There is booking.com, trivago, hotel.com... you can search all day before you're 100% sure you booked at the lowest price! Even the site comparing prices don't always have the same results!
 
 # Let's book a hotel
 
