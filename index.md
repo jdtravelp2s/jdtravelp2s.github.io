@@ -7,15 +7,15 @@ title : JD P2S Travel
 
 Do you dream of a vacation on tropical Islands?
 
-<img class="d-block w-100 img-fluid" src="/assets/cottages-beach-r.jpg" alt="">
+<img class="d-block w-100 img-fluid" src="/assets/cottages-beach-r.jpg" alt="beach holidays">
 
 Or a city sightseeing tour?
 
-<img class="d-block w-100 img-fluid" src="/assets/orange-powerboat-r.jpg" alt="">
+<img class="d-block w-100 img-fluid" src="/assets/orange-powerboat-r.jpg" alt="Venice trip">
 
 Or a trip on snowy mountains?
 
-<img class="d-block w-100 img-fluid" src="/assets/mountains-r.jpg" alt="">
+<img class="d-block w-100 img-fluid" src="/assets/mountains-r.jpg" alt="snowy mountains">
 
 All of this while getting a five figure salary and staying in a 5 star hotel without having to work 40+ hours a week? But how you may ask... well, Welcome to P2S Travel!
 
@@ -33,13 +33,14 @@ Of course not, far from it! Earlier I wrote about a five figure salary and trave
 
 Let's go over all you'll get from your registration. As a partner you get access to so called dreamcations, these are hotel stays you can even get for free! 
 
-How does it work? As a partner every dollar you invest P2S Travel doubles and given to you as travel points. 
+How does it work? As a partner every dollar you invest P2S Travel doubles and given to you as travel points. you can use to book hotel stays and more from the partner exclusive booking P2S Travel booking website.
 
 [more info here](https://p2stravel.com/jdtravelp2s)
 
 There are two types of partner registration: one is the titanium membership and the ohter is the platinum membership.
 
 The titanium membership cost 129.95$ one-time fee (this includes your first month) and 69.95$ monthly and the platinum membership cost 249.95$ one-time fee (same as titanium, your first month is included in this one-time fee) and 125$ monthly.
+
 
 [Check it out here](https://p2stravel.com/join/jdtravelp2s)
 
