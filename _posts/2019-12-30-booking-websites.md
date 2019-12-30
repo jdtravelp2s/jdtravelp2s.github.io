@@ -21,25 +21,25 @@ In Paris we'll look at a room in the Villa Luxembourg Hotel.
 
 Booking.com listed the Villa Luxembourg at 1375 € (1537 $) for seven nights for two breakfast included. 
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/paris-booking.jpg" alt="booking hotel paris">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/paris-booking.png" alt="booking hotel paris">
 
 2. hotels.com
 
 Hotels.com listed it at 1429 € (1596 $) again, this price is for seven nights breakfast included.
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/paris-hotels.jpg" alt="hotels paris">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/paris-hotels.png" alt="hotels paris">
 
 3. trivago.com
 
 On trivago the price stood at 698 € (779 $) which is alot cheaper than the first two sites tested.
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/paris-trivago.jpg" alt="trivago hotel paris">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/paris-trivago.png" alt="trivago hotel paris">
 
 4. P2S Travel
 
 On P2S Travel we find the same for 680 € (760 $) which is close under trivagos price.
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/paris-p2s.jpg" alt="p2s travel hotel paris">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/paris-p2s.png" alt="p2s travel hotel paris">
 
 # Paris conclusion
 
@@ -50,29 +50,31 @@ For Paris I would recommend trivago if you don't want to be a P2S Travel partner
 
 Here we observe the price differences from a room in the Relai Ca' Sabbioni hotel.
 
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/venice.jpeg" alt="hotel venice">
+
 1. booking.com
 
 Booking.com listed the Relai Ca' Sabbioni at 778 € (870 $) for seven nights for two breakfast included. 
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/venice-booking.jpg" alt="booking hotel venice">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/venice-booking.png" alt="booking hotel venice">
 
 2. hotels.com
 
 Hotels.com listed it at 759 € (848 $) price includes breakfast as well.
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/venice-hotels.jpg" alt="hotels venice">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/venice-hotels.png" alt="hotels venice">
 
 3. trivago.com
 
 From trivago the price didn't drop as low as I expected and stayed a little below hotels.com at 690 € (771 $).
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/venice-trivago.jpg" alt="trivago hotel venice">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/Venice-trivago.png" alt="trivago hotel venice">
 
 4. P2S Travel
 
 On P2S Travel I could find the same for 655 € (732 $) which again is underbidding trivago by a small margin.
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/venice-p2s.jpg" alt="p2s travel hotel venice">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/Venice-p2s.png" alt="p2s travel hotel venice">
 
 # Venice conlusion
 
@@ -83,29 +85,31 @@ Same as for Paris I would recommend trivago if you're not consider becoming a P2
 
 In Los Angeles we'll look at the Westin Pasadena.
 
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/LA.jpg" alt="hotel Los Angeles">
+
 1. booking.com
 
 Booking.com listed the room at 1626 € (1817 $) breakfast included. 
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/LA-booking.jpg" alt="booking hotel Los Angeles">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/LA-booking.png" alt="booking hotel Los Angeles">
 
 2. hotels.com
 
 Hotels.com presented the room at a price of 1772 € (1980 $) including breakfast as well.
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/LA-hotels.jpg" alt="hotels Los Angeles">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/LA-hotels.png" alt="hotels Los Angeles">
 
 3. trivago.com
 
 From trivago we got 1538 € (1718 $) which is not as cheap as we're used to from trivago.
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/LA-trivago.jpg" alt="trivago hotel Los Angeles">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/LA-trivago.png" alt="trivago hotel Los Angeles">
 
 4. P2S Travel
 
 On P2S Travel I could find the same for 1051 € (1174 $)! This is alot cheaper. 
 
-<img class="d-block w-100 img-fluid" src="/assets/booking-website/LA-p2s.jpg" alt="p2s travel hotel Los Angeles">
+<img class="d-block w-100 img-fluid" src="/assets/booking-website/LA-p2s.png" alt="p2s travel hotel Los Angeles">
 
 # Los Angeles conclusion
 
