@@ -115,14 +115,5 @@ On P2S Travel I could find the same for 1051 € (1174 $)! This is alot cheaper.
 
 On this one I really can't recommend anything else than becoming a P2S Travel partner. Remember you're just paying half of it due to your invested money being doubled into travel dollars, so you only pay 525.50 € (587 $)!
 
-Here are all the results in a neat little spreadsheet.
-
-
-| Booking Plateform     | booking.com    | hotels.com      | trivago.com    | P2S Travel     |
-|----------------------:|:--------------:|:---------------:|:--------------:|:--------------:|
-| Paris                 | 1375 € (1537 $)| 1429 € (1596 $) | 698 € (779 $)  | 680 € (760 $)  |
-| Venice                | 778 € (870 $)  | 759 €  (848 $)  | 690 € (771 $)  | 655 € (732 $)  |
-| Los Angeles           | 1626 € (1817 $)| 1772 € (1980 $) | 1538 € (1718 $)| 1051 € (1174 $)|
-
 
  Feel free to send me emails, I'll gladely answer them if I can!  
