@@ -16,7 +16,7 @@ nav {
 }
 
 .nav-item:hover {
-	background-color: #00AF11;
+	background-color: #009E33;
 }
 
 .navbar-light {
@@ -29,7 +29,7 @@ nav {
 
 #nav-link-top {
 	padding-left: 5em;
-	color: #999;
+	color: #FFF;
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	list-style: none;
 	font-weight: bold;
