@@ -1,5 +1,7 @@
-body {
-	background-color: #FFF;
+body {	
+	background-image: url("/assets/icons/Logo01.png");
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
 }
 
 nav {
