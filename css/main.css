@@ -2,7 +2,6 @@ body {
 	background-image: url("/assets/icons/Logo01.png");
   	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: 100%;
 }
 
 nav {
@@ -115,4 +114,16 @@ ol {
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: 120%;
 	font-weight: bold;
+}
+
+@media(max-width:600px){
+	body {
+		background-size: auto 100%;
+	}
+}
+
+@media(min-width:600px){
+	body {
+		background-size: 100% auto;
+	}
 }
