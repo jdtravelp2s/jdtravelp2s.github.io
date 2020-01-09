@@ -1,14 +1,14 @@
 ---
 layout : post
-title : Romantic location for Valentin's Day Marrakech
+title : Romantic location for Valentine's Day Marrakech
 Date : 2020-01-03
 ---
 
-Did you already planned a trip for Valentin's Day? You don't have any clue on where to go? You are in luck, here are five romantic places you should travel to!
+Did you already planned a trip for Valentine's Day? You don't have any clue on where to go? You are in luck, here are five romantic places you should travel to!
 
 # Marrakech
 
-We're starting this list with a city that might not come to mind when you think of a romantic place. This is far from the truth, Marrakech with it's oriental charm and wonderful landscape, easily qualifies as romantic! Marrakech is a beautiful city to visit as a couple, you could see a lot of breathtaking sigths just by roaming around (be careful though, you don't want to get lost!). Of course, for Valentin's Day it should be extra special. This means you'll want to plan ahead. That's why I picked a few beautiful places you could visit with your loved one while on a romantic week-end.
+We're starting this list with a city that might not come to mind when you think of a romantic place. This is far from the truth, Marrakech with it's oriental charm and wonderful landscape, easily qualifies as romantic! Marrakech is a beautiful city to visit as a couple, you could see a lot of breathtaking sigths just by roaming around (be careful though, you don't want to get lost!). Of course, for valentine's Day it should be extra special. This means you'll want to plan ahead. That's why I picked a few beautiful places you could visit with your loved one while on a romantic week-end.
 
 <img class="d-block w-100 img-fluid" src="/assets/romantic-trip-2020/marrakech-city.jpeg" alt="marrakech city beautiful">
 
@@ -40,7 +40,7 @@ This list wouldn't be complete without the iconic camel ride through the desert.
 
 ## Relaxing
 
-On a Valentin's Day trip you may also want to relax. Don't worry! There are many spas offering relaxing treatments for couples. As a plus you could go to a rooftop bar or restaurant to watch the sunset while sipping an avocado smoothie.
+On a valentine's Day trip you may also want to relax. Don't worry! There are many spas offering relaxing treatments for couples. As a plus you could go to a rooftop bar or restaurant to watch the sunset while sipping an avocado smoothie.
 
 
 Thank you for reading, I hope you enjoyed it! If you did and want to book your hotel stay in Marrakech, just [click here](https://thehotelsite.com/jdtravelp2s) to get good prices! Check out [this link](https://p2stravel.com/jdtravelp2s) and join P2S Travel to get even better discounts and make a living out of travelling! As a partner you'll get discounts on activities such as camel rides too!
