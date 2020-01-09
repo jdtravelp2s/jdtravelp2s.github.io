@@ -123,3 +123,11 @@ ol {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.number-desc {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 400%;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}

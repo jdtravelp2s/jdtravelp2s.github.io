@@ -7,7 +7,7 @@ title : JD P2S Travel
 
 <div class="number">20</div> 
 
-# Trees planted
+<div class="number-desc">Trees planted so far</div>
 
 
 # Travel and save the world!
