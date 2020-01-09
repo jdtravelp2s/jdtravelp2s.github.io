@@ -21,7 +21,7 @@ A little while ago I joined P2S Travel, a company which primary goal is to make 
 
 On top of all advantages P2S Travel offers, **10 trees** will be planted if you join as titanium member and **20 trees** if you join as a platinum member [join here](https://p2stravel.com/join/jdtravelp2s/). After you've subscribed **one tree** will be planted every month thanks to you. 
 
-More details on P2S Travel [here](https://jdtravelp2s.githhub.io/2020/01/08/p2s-travel.md)
+More details on P2S Travel [here](https://jdtravelp2s.githhub.io/2020/01/08/p2s-travel)
  
 If you're not ready to join now, feel free to check out [this site](https://thehotelsite.com/jdtravelp2s) on which every booked hotel room plants **5 trees**.
 
