@@ -3,59 +3,39 @@ layout : default
 title : JD P2S Travel
 ---
 
-# Do you have a dream?
+# Travel and save the world!
 
-Do you dream of a vacation on tropical Islands?
+<img class="d-block w-100 img-fluid" src="/assets/icons/Logo01.png" alt="eco plane ticket">
+
+Day dreaming about travelling the world, relaxing on beaches with cristal clear water, feeling the freezing air of mountains with the whitest of snow, exploring historical cities you've only read in books. You open your eyes and reality hits you *'I can't afford such trips!'*. But a comforting though lingers in your mind **_'At least I'm doing my part for the environment, if I don't travel I'm not releasing as much carbon dioxyde.'_**
+
+** Don't you want to live your dreams while caring for the world? **
+
+You can achieve all your travel dreams and more if only you read a little further!
+
+# How can you do both?
+
+A little while ago I joined P2S Travel, a company which primary goal is to make travelling affordable for everyone by providing discounts on hotel stays, boat cruises, flights, car renting and more. Additionally it garanties a very good salary to those who are willing to enroll as partners and encourage others to do the same. Which is absolutely awesome! But wait! How about earth? If you travvel more you're releasing more carbon dioxyde which contributes to global warming, that doesn't look good for humanities future!
+
+# The 'travel and plant a forest' plan
+
+On top of all advantages P2S Travel offers you, I'm gifting **10 trees** for everyone who joins [here](https://p2stravel.com/join/jdtravelp2s/) and **one tree** a month for every team member. More details on P2S Travel [here](https://jdtravelp2s.githhub.io/) Every tree will be purchased via the [One dollar, one tree](https://onedollaronetree.com/) plateform. If you don't feel like joining now, feel free to check out [this site](https://thehotelsite.com/jdtravelp2s) on which every booked hotel room plants **5 trees**.
+
+# Money -> check! Save the world -> check!
+
+What's your excuse to live your life as you\re supposed to?
+
+You could be relaxing on this beach...
 
 <img class="d-block w-100 img-fluid" src="/assets/cottages-beach-r.jpg" alt="beach holidays">
 
-Or a city sightseeing tour?
-
-<img class="d-block w-100 img-fluid" src="/assets/orange-powerboat-r.jpg" alt="Venice trip">
-
-Or a trip on snowy mountains?
+Exploring these mountains...
 
 <img class="d-block w-100 img-fluid" src="/assets/mountains-r.jpg" alt="snowy mountains">
 
-All of this while getting a five figure salary and staying in a 5 star hotel without having to work 40+ hours a week? But how you may ask... well, Welcome to P2S Travel!
+And visiting any city you want...
 
-# What is P2S Travel?
+<img class="d-block w-100 img-fluid" src="/assets/orange-powerboat-r.jpg" alt="Venice trip">
 
-P2S Travel is a company which goal is to make travelling affordable for everyone by proposing discounts for hotel stays, boat cruises, flights, car renting and more! These discounts are at least 10 to 15% under the lowest prices you can find on other sites. But who am I to be trusted? Just check it out for yourself! Feel free to compare prices with your favourite website.
+Take action now and become a [P2S Travel partner!](https://p2stravel.com/join/jdtravelp2s)
 
-[ckeck it out here!](https://thehotelsite.com/jdtravelp2s)
-
-# That's it?
-
-Of course not, far from it! Earlier I wrote about a five figure salary and travelling to dream locations, but what do you have to do to get these? If you're asking this question then you'll might be interested in the P2S travel partner program. 
-
-# The P2S Travel Partner Program
-
-Let's go over all you'll get from your registration. As a partner you get access to so called dreamcations, these are hotel stays you can even get for free! 
-
-How does it work? As a partner every dollar you invest P2S Travel doubles and given to you as travel points. you can use to book hotel stays and more from the partner exclusive booking P2S Travel booking website.
-
-[more info here](https://p2stravel.com/jdtravelp2s)
-
-There are two types of partner registration: one is the titanium membership and the ohter is the platinum membership.
-
-The titanium membership cost 129.95$ one-time fee (this includes your first month) and 69.95$ monthly and the platinum membership cost 249.95$ one-time fee (same as titanium, your first month is included in this one-time fee) and 125$ monthly.
-
-
-[Check it out here](https://p2stravel.com/join/jdtravelp2s)
-
-# So I do have to pay for this?
-
-I know, I told you you'll get paid and now you have to pay? But wait, there's more to the partnership than the monthly fee. You  can convince people to join P2S Travel as members of your team. You'll get paid for every member you enroll and you'll get paid again for every member your team enrolls and their teams and so on! Even better, you'll get a monthly salary depending on how many members your team has! Your monthly is automatically paid for as soon as your team reaches two members! Don't forget the travel points I talked about earlier, the monthly fee is converted in travel points even if you don't pay for it yourself!
-
-[Here all in great detail](http://global.paid2save.com/include/compplan.pdf). It's not easy at first, but if read all of it carefully I'm sure you'll understand how P2S works. Feel free to write me an email and ask any questions you want! (write #p2s at the beginning of your email to make sure it doesn't end up in my spam folder).
-
-# How to join?
-
-You've read this thread and you're ready to join us?
-
-[Join the adventure here!](https://p2stravel.com/join/jdtravelp2s)
-
-# I'm part of the team, what's next?
-
-Fear not! You're not alone. As soon as you've joined the team, I will be notified and will reach out to you in 48 hours max. Feel free to send me an email as soon as you've registered to speed up the process. From there I will get you all the keys for your success.
