@@ -3,9 +3,12 @@ layout : default
 title : JD P2S Travel
 ---
 
-# Travel and save the world!
-
 <img class="d-block w-100 img-fluid" src="/assets/icons/Logo01.png" alt="eco plane ticket">
+
+<div class="number">20</div>
+
+
+# Travel and save the world!
 
 Day dreaming about travelling the world, relaxing on beaches with cristal clear water, feeling the freezing air of mountains with the whitest of snow, exploring historical cities you've only read about in books. You open your eyes and reality hits you *'I can't afford such trips!'*. But a comforting though lingers in your mind **_'I'm doing my part for the environment, if I don't travel I'm not releasing as much carbon dioxyde.'_**
 
