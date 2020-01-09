@@ -7,23 +7,27 @@ title : JD P2S Travel
 
 <img class="d-block w-100 img-fluid" src="/assets/icons/Logo01.png" alt="eco plane ticket">
 
-Day dreaming about travelling the world, relaxing on beaches with cristal clear water, feeling the freezing air of mountains with the whitest of snow, exploring historical cities you've only read in books. You open your eyes and reality hits you *'I can't afford such trips!'*. But a comforting though lingers in your mind **_'At least I'm doing my part for the environment, if I don't travel I'm not releasing as much carbon dioxyde.'_**
+Day dreaming about travelling the world, relaxing on beaches with cristal clear water, feeling the freezing air of mountains with the whitest of snow, exploring historical cities you've only read about in books. You open your eyes and reality hits you *'I can't afford such trips!'*. But a comforting though lingers in your mind **_'I'm doing my part for the environment, if I don't travel I'm not releasing as much carbon dioxyde.'_**
 
-** Don't you want to live your dreams while caring for the world? **
+**Don't you want to live your dreams while caring for the world?**
 
-You can achieve all your travel dreams and more if only you read a little further!
+You can achieve all your travel dreams and more if you read a little further!
 
 # How can you do both?
 
-A little while ago I joined P2S Travel, a company which primary goal is to make travelling affordable for everyone by providing discounts on hotel stays, boat cruises, flights, car renting and more. Additionally it garanties a very good salary to those who are willing to enroll as partners and encourage others to do the same. Which is absolutely awesome! But wait! How about earth? If you travvel more you're releasing more carbon dioxyde which contributes to global warming, that doesn't look good for humanities future!
+A little while ago I joined P2S Travel, a company which primary goal is to make travelling affordable for everyone by providing discounts on hotel stays, boat cruises, car renting and more. Additionally it garanties a very good salary to those who are willing to enroll as partners and encourage others to do the same. Which is absolutely awesome! But wait! What about saving the world? If you travel more you're releasing more carbon dioxyde which contributes to global warming, that doesn't look good for humanity's future!
 
-# The 'travel and plant a forest' plan
+# The 'travel to plant trees' program
 
-On top of all advantages P2S Travel offers you, I'm gifting **10 trees** for everyone who joins [here](https://p2stravel.com/join/jdtravelp2s/) and **one tree** a month for every team member. More details on P2S Travel [here](https://jdtravelp2s.githhub.io/) Every tree will be purchased via the [One dollar, one tree](https://onedollaronetree.com/) plateform. If you don't feel like joining now, feel free to check out [this site](https://thehotelsite.com/jdtravelp2s) on which every booked hotel room plants **5 trees**.
+On top of all advantages P2S Travel offers, **10 trees** will be planted if you join as titanium member and **20 trees** if you join as a platinum member [join here](https://p2stravel.com/join/jdtravelp2s/). After you've subscribed **one tree** will be planted every month thanks to you. 
+
+More details on P2S Travel [here](https://jdtravelp2s.githhub.io/2020/01/08/p2s-travel.md)
+ 
+If you're not ready to join now, feel free to check out [this site](https://thehotelsite.com/jdtravelp2s) on which every booked hotel room plants **5 trees**.
 
 # Money -> check! Save the world -> check!
 
-What's your excuse to live your life as you\re supposed to?
+What's your excuse now?
 
 You could be relaxing on this beach...
 
