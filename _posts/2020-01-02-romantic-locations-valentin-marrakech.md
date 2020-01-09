@@ -44,6 +44,7 @@ On a valentine's Day trip you may also want to relax. Don't worry! There are man
 
 
 Thank you for reading, I hope you enjoyed it! If you did and want to book your hotel stay in Marrakech, just [click here](https://thehotelsite.com/jdtravelp2s) to get good prices! Check out [this link](https://p2stravel.com/jdtravelp2s) and join P2S Travel to get even better discounts and make a living out of travelling! As a partner you'll get discounts on activities such as camel rides too!
+
 I would be honored if you'd follow me on Twitter and Instagram.
 
 [Part 2 coming soon](#part2)
