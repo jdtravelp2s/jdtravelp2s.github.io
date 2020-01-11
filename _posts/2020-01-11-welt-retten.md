@@ -7,13 +7,13 @@ title : Reisen und die Welt retten?
 
 <div class="number-desc">gepflanzte Bäume</div>
 
-** helfe uns mehr zu pflanzen! **
+**helfe uns mehr zu pflanzen!**
 
 # Reise und rette die Welt!
 
-Träumst du davon, um die Welt zu reisen, dich an Stränden mit kristallklarem Wasser zu entspannen, die eiskalte Luft der Berge  zu spüren und historische Städte zu erkunden, über denen du nur in Büchern gelesen hast. Du öffnest deine Augen, der Traum verpufft * 'Ich kann mir solche Reisen nicht leisten!' *. Aber ein beruhigender Gedanke geht dir durch den Kopf ** _ 'Ich tue meinen Teil für die Umwelt, wenn ich nicht reise, setze ich nicht so viel Kohlendioxid frei.'_ **
+Träumst du davon, um die Welt zu reisen, dich an Stränden mit kristallklarem Wasser zu entspannen, die eiskalte Luft der Berge  zu spüren und historische Städte zu erkunden, über denen du nur in Büchern gelesen hast. Du öffnest deine Augen, der Traum verpufft _'Ich kann mir solche Reisen nicht leisten!'_. Aber ein beruhigender Gedanke geht dir durch den Kopf **_'Ich tue meinen Teil für die Umwelt, wenn ich nicht reise, setze ich nicht so viel Kohlendioxid frei.'_**
 
-** Willst du nicht deine Träume leben und gleichzeitig die Welt retten? **
+**Willst du nicht deine Träume leben und gleichzeitig die Welt retten?**
 
 Du kannst all deine Reiseträume verwirklichen und mehr, wenn du ein wenig weiterliest!
 
@@ -23,11 +23,11 @@ Vor einiger Zeit bin ich zu P2S Travel gekommen, einem Unternehmen, dessen Haupt
 
 # Das Programm "Reisen und Bäume pflanzen"
 
-Zusätzlich zu allen Vorteilen, die P2S Travel bietet, werden ** 10 Bäume ** gepflanzt, wenn du dich als Titanmitglied anmeldst, und ** 20 Bäume **, wenn du dich als Platinmitglied anmeldest [hier anmelden] (https://p2stravel.com/join/jdtravelp2s/). Nachdem du dich angemeldet hast, wird dank dir jeden Monat ** ein Baum ** gepflanzt.
+Zusätzlich zu allen Vorteilen, die P2S Travel bietet, werden **10 Bäume** gepflanzt, wenn du dich als Titanmitglied anmeldst, und **20 Bäume**, wenn du dich als Platinmitglied anmeldest [hier anmelden] (https://p2stravel.com/join/jdtravelp2s/). Nachdem du dich angemeldet hast, wird dank dir jeden Monat **ein Baum** gepflanzt.
 
-** Weitere Informationen zu P2S Travel [hier] (https://jdtravelp2s.github.io/2020/01/11/p2s-travel-deutsch) **
+**Weitere Informationen zu P2S Travel [hier] (https://jdtravelp2s.github.io/2020/01/11/p2s-travel-deutsch)**
  
-Wenn du noch nicht bereit bist, dich anzumelden, kannst du [diese Seite] (https://thehotelsite.com/jdtravelp2s) besuchen, auf der jedes gebuchte Hotelzimmer ** 5 Bäume ** bepflanzt!
+Wenn du noch nicht bereit bist, dich anzumelden, kannst du [diese Seite] (https://thehotelsite.com/jdtravelp2s) besuchen, auf der jedes gebuchte Hotelzimmer **5 Bäume** bepflanzt!
 
 # Geld -> Check!, Welt retten -> CHeck!
 
