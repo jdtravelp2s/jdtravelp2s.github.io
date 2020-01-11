@@ -1,6 +1,6 @@
 ---
 layout : default
-title : How does P2S Travel works?
+title : Was ist P2S Travel?
 ---
 
 # Was ist P2S Travel?
