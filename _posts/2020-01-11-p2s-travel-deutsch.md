@@ -5,7 +5,7 @@ title : Was ist P2S Travel?
 
 # Was ist P2S Travel?
 
-Wie bereits erwähnt (https://jdtravelp2s.github.io/), ist P2S Travel ein privater Reiseclub, dessen Ziel es ist, die besten Preise für Hotels, Bootsfahrten, Urlaubsaktivitäten, Mietwagen und mehr zu erzielen. Anstatt Geld für Werbung wie auf anderen Buchungsseiten auszugeben, bietet P2S Travel Ihnen die Möglichkeit, nicht nur zu reisen, sondern auch ein Gehalt zu verdienen, indem du Partner wirst!
+Wie bereits erwähnt [hier](https://jdtravelp2s.github.io/), ist P2S Travel ein privater Reiseclub, dessen Ziel es ist, die besten Preise für Hotels, Bootsfahrten, Urlaubsaktivitäten, Mietwagen und mehr zu erzielen. Anstatt Geld für Werbung wie auf anderen Buchungsseiten auszugeben, bietet P2S Travel Ihnen die Möglichkeit, nicht nur zu reisen, sondern auch ein Gehalt zu verdienen, indem du Partner wirst!
 
 # P2S Reisepartner
 
@@ -43,5 +43,5 @@ Zusätzlich steigt dein tägliches Einkommen, je größer dein Team wird!
 
 # Werde Partner!
 
-Werde partner indem du [diesen link](https://p2stravel.com/join/jdtravelp2s) folgst!
+Werde partner indem du **[diesen link](https://p2stravel.com/join/jdtravelp2s)** folgst!
 Du hast Fragen? <a href="mailto:jeandavidtravel@gmail.com">Schick mir einfach eine Mail!</a>

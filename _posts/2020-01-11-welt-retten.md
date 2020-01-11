@@ -23,9 +23,9 @@ Vor einiger Zeit bin ich zu P2S Travel gekommen, einem Unternehmen, dessen Haupt
 
 # Das Programm "Reisen und Bäume pflanzen"
 
-Zusätzlich zu allen Vorteilen, die P2S Travel bietet, werden **10 Bäume** gepflanzt, wenn du dich als Titanmitglied anmeldst, und **20 Bäume**, wenn du dich als Platinmitglied anmeldest [hier anmelden] (https://p2stravel.com/join/jdtravelp2s/). Nachdem du dich angemeldet hast, wird dank dir jeden Monat **ein Baum** gepflanzt.
+Zusätzlich zu allen Vorteilen, die P2S Travel bietet, werden **10 Bäume** gepflanzt, wenn du dich als Titanmitglied anmeldst, und **20 Bäume**, wenn du dich als Platinmitglied anmeldest **[hier anmelden](https://p2stravel.com/join/jdtravelp2s/)**. Nachdem du dich angemeldet hast, wird dank dir jeden Monat **ein Baum** gepflanzt.
 
-**Weitere Informationen zu P2S Travel [hier] (https://jdtravelp2s.github.io/2020/01/11/p2s-travel-deutsch)**
+**Weitere Informationen zu P2S Travel [hier](https://jdtravelp2s.github.io/2020/01/11/p2s-travel-deutsch)**
  
 Wenn du noch nicht bereit bist, dich anzumelden, kannst du [diese Seite] (https://thehotelsite.com/jdtravelp2s) besuchen, auf der jedes gebuchte Hotelzimmer **5 Bäume** bepflanzt!
 
@@ -45,4 +45,4 @@ Jede ihrer Traumstädte besuchen ...
 
 <img class="d-block w-100 img-fluid" src="/assets/orange-powerboat-r.jpg" alt="Venice trip">
 
-[Werde P2S Travel Partner!](https://p2stravel.com/join/jdtravelp2s)
+**[Werde P2S Travel Partner!](https://p2stravel.com/join/jdtravelp2s)**
