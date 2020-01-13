@@ -5,15 +5,15 @@ title : Was ist P2S Travel?
 
 # Was ist P2S Travel?
 
-Wie bereits erwähnt [hier](https://jdtravelp2s.github.io/), ist P2S Travel ein privater Reiseclub, dessen Ziel es ist, die besten Preise für Hotels, Bootsfahrten, Urlaubsaktivitäten, Mietwagen und mehr zu erzielen. Anstatt Geld für Werbung wie auf anderen Buchungsseiten auszugeben, bietet P2S Travel Ihnen die Möglichkeit, nicht nur zu reisen, sondern auch ein Gehalt zu verdienen, indem du Partner wirst!
+Wie bereits [hier](https://jdtravelp2s.github.io/2020/01/11/welt-retten) erwähnt, ist P2S Travel ein privater Reiseclub, dessen Ziel es ist, die besten Preise für Hotels, Bootsfahrten, Urlaubsaktivitäten, Mietwagen und mehr zu erzielen. Anstatt Geld für Werbung wie auf anderen Buchungsseiten auszugeben, bietet dir P2S Travel die Möglichkeit, nicht nur zu reisen, sondern auch ein Gehalt zu verdienen, indem du Partner wirst!
 
 # P2S Reisepartner
 
-P2S Travel bietet zwei Partnerabonnements an, die Titan- und die Platin-Partnerschaft. Zusätzlich zum Zugriff auf die P2S Travel-Reservierungswebsite erhalten Partner eine kostenlose Reise für ihr Abonnement (das Reiseziel hängt von Ihrem Standort ab) und ein vorteilhaftes Reisesparsystem.
+P2S Travel bietet zwei Partnerabonnements an, die Titan- und die Platin-Partnerschaft. Zusätzlich zum Zugriff auf die P2S Travel-Reservierungswebsite erhalten Partner eine kostenlose Reise für dein Abonnement (das Reiseziel hängt von deinem Standort ab) und ein vorteilhaftes Reisesparsystem.
 
 # Titan-Partner
 
-Ein Titan-Partner zu werden kostet _129,95 $ im ersten Monat und 69,95 $ / Monat nach dem ersten Monat_. Damit erhälst du alle Partnerprivilegien: Zugriff auf die P2S Travel-Reservierungswebsite, Ihre kostenlose Reise, jede monatliche Gebühr wird in Reisepunkten ** verdoppelt ** (siehe _Reisepunkte_ unten) und Zugriff auf sogenannte **Dreamcations** (siehe _Dreamcations_ unten).
+Ein Titan-Partner zu werden kostet _129,95 $ im ersten Monat und 69,95 $ / Monat nach dem ersten Monat_. Damit erhälst du alle Partnerprivilegien: Zugriff auf die P2S Travel-Reservierungswebsite, deine kostenlose Reise, jede monatliche Gebühr wird in Reisepunkten **verdoppelt** (siehe _Reisepunkte_ unten) und Zugriff auf sogenannte **Dreamcations** (siehe _Dreamcations_ unten).
 
 # Platinium-Partner
 
@@ -21,11 +21,11 @@ Wenn du Platin-Partner wirst, kostet dies _249,95 $ im ersten Monat und 129,95 $
 
 # Reisepunkte
 
-Ihre monatliche Abonnementgebühr wird jeden Monat automatisch in Reisepunkte umgerechnet. Jeder investierte Dollar ist zwei Reisepunkte wert. Wenn du deine Reisepunkte zum Kauf einer Reise verwendest, ist jeder Reisepunkt 1 Dollar wert. Wenn du zum Beispiel _69,95 $_ pro Monat bezahlst, werden _69,95 $_ in _139,90 Reisepunkte_ umgewandelt, die _139,90 $_ wert sind!
+Deine monatliche Abonnementgebühr wird jeden Monat automatisch in Reisepunkte umgerechnet. Jeder investierte Dollar ist zwei Reisepunkte wert. Wenn du deine Reisepunkte zum Kauf einer Reise verwendest, ist jeder Reisepunkt 1 Dollar wert. Wenn du zum Beispiel _69,95 $_ pro Monat bezahlst, werden _69,95 $_ in _139,90 Reisepunkte_ umgewandelt, die _139,90 $_ wert sind!
 
 #Dreamcations
 
-Traumkationen sind exklusive Aufenthalte in Hotels, Villen, Resorts und vielem mehr für P2S Travel Partner. Es gibt mehr als **4000 Aufenthalte** auf der ganzen Welt, die 2 bis 10 Personen beherbergen können!
+Dreamcations sind exklusive Aufenthalte in Hotels, Villen, Resorts und vielem mehr für P2S Travel Partner. Es gibt mehr als **4000 Aufenthalte** auf der ganzen Welt, die 2 bis 10 Personen beherbergen können!
 
 Als Titan-Partner kannst du an einer Traumreise teilnehmen, indem du bis zu 75% des Preises mit Reisepunkten kaufst. Zum Beispiel, wenn der Aufenthalt 1000 $ kostet, musst du als Titan-Partner mindestens 250 $ ohne Reisepunkte bezahlen.
 

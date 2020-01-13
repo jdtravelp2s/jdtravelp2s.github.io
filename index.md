@@ -7,7 +7,7 @@ title : JD P2S Travel
 
 <div class="number-desc">Trees planted so far</div>
 
-** Help us to plant more! **
+**Help us to plant more!**
 
 # Travel and save the world!
 

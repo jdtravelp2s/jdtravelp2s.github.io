@@ -27,7 +27,7 @@ Zusätzlich zu allen Vorteilen, die P2S Travel bietet, werden **10 Bäume** gepf
 
 **Weitere Informationen zu P2S Travel [hier](https://jdtravelp2s.github.io/2020/01/11/p2s-travel-deutsch)**
  
-Wenn du noch nicht bereit bist, dich anzumelden, kannst du [diese Seite] (https://thehotelsite.com/jdtravelp2s) besuchen, auf der jedes gebuchte Hotelzimmer **5 Bäume** bepflanzt!
+Wenn du noch nicht bereit bist, dich anzumelden, kannst du [diese Seite](https://thehotelsite.com/jdtravelp2s) besuchen, auf der jedes gebuchte Hotelzimmer **5 Bäume** bepflanzt!
 
 # Geld -> Check!, Welt retten -> CHeck!
 
@@ -41,7 +41,7 @@ Diese Berge erkunden ...
 
 <img class="d-block w-100 img-fluid" src="/assets/mountains-r.jpg" alt="snowy mountains">
 
-Jede ihrer Traumstädte besuchen ...
+Jede deiner Traumstädte besuchen ...
 
 <img class="d-block w-100 img-fluid" src="/assets/orange-powerboat-r.jpg" alt="Venice trip">
 
