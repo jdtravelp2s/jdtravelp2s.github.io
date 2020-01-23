@@ -2,14 +2,14 @@
 nav {
 	padding-top: 0;
 	position: fixed !important;
-	background-color: rgb(255, 208, 0.8);
+	background-color: rgb(255, 208, 0, 0.4);
 	margin-top: 0;
 	z-index: 99;
 }
 
 .nav-item {
   	align-self: center;
-	background-color: rgb(255, 208, 0, 0.8);
+	background-color: rgb(255, 208, 0, 0.4);
 }
 
 .nav-item:hover {
