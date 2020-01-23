@@ -3,13 +3,7 @@ layout : default
 title : JD P2S Travel
 ---
 
-<div class="number">20</div> 
-
-<div class="number-desc">Trees planted so far</div>
-
-**Help us plant more!**
-
-# Wenn Zeit und Geld kein Frage wäre, was würden Sie unternehmen?
+# Wenn Zeit und Geld keine Frage wäre, was würden Sie unternehmen?
 
 Wie oft reisen Sie im Jahr? Finden Sie es zu wenig? Was hält Sie zurück mehr zu reisen?
 
