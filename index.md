@@ -3,7 +3,7 @@ layout : default
 title : JD P2S Travel
 ---
 
-<img class="d-block w-100 img-fluid" src="/assets/P2S.png" alt="p2s travel">
+<img class="d-block w-100 img-fluid" src="/assets/FrontPage/P2S.png" alt="p2s travel">
 
 # Wenn Zeit und Geld keine Frage wäre, was würden Sie unternehmen?
 
@@ -23,12 +23,16 @@ Bestimmt sind Sie schon auf einige Reiseportale gewesen, jedes davon verspricht 
 
 Wenn Sie auf Mitglied Vorteile verzichten wollen und dennoch zu den besten Preisen reisen wollen, können Sie sich [hier kostenlos einschreiben](https://thehotelsite.com/jdp2stravel). Beim einschreiben entstehen keine Kosten, Sie bezahlen nur dann wenn Sie ein Hotel buchen und das zu den besten Preisen.
 
+<img class="d-block w-100 img-fluid" src="/assets/FrontPage/thehotelsite.png" alt="p2s travel the hotel site">
+
 # Als Kunde beitreten
 
 Als Kunde treten Sie bei falls Sie nur am reisen interessiert sind. Damit haben Sie zugriff zum P2S Travel Portal und können dort nicht nur Hotels buchen sondern auch Flüge, Autovermietungen, Bootsfahrten, Urlaubsaktivitäten und vieles mehr. 
 
 Die Mitgliedschaft kostet 72€ im ersten Monat und 36€ in den darauffolgenden Monaten. Diese kosten gehen nicht verloren! Alles was Sie als Mitglied bezahlen werden als Reisepunkten umgewandelt. Diese Reisepunkte können Sie sofort benutzen oder ein Monat warten  
 damit diese verdoppelt werden. Wenn Sie im ersten Monat 72€ bezahlen entspricht das 79 Reisepunkten (Punkte werden in Dollar gezählt) im ersten Monat. Im zweiten Monat zahlen Sie 36€ (39$), bekommen 39 Reisepunkte und haben inzwischen schon 197 Punkte. Diese Punkte können jederzeit benutzt werden.
+
+<img class="d-block w-100 img-fluid" src="/assets/FrontPage/P2SBooking.png" alt="p2s travel booking">
 
 # Als Partner beitreten
 
@@ -38,24 +42,27 @@ Ein Titan-Partner zu werden kostet 115€ im ersten Monat und 62€ / Monat nach
 
 Zusätzlich können Sie vom Vergütungsplan profitieren und damit einen monatlichen Gehalt erziehlen (siehe Tabelle unten). Jede Person die mit Ihren Code P2S Travel als Kunde oder Partner beitretet bring Ihnen einen direkten Bonus ein. Je größer Ihr Team wird, desto höher wird Ihr monatlicher Gehalt. 
 
-
 ## Platinium-Partner
 
 Wenn Sie Platinium-Partner werden, kostet dies 225€ im ersten Monat und 115€ / Monat nach dem ersten Monat. Auch hier haben Sie Zugriff auf die Reservierungswebsite von P2S Travel, eine kostenlose Reise, jede monatliche Gebühr wird in Reisepunkten umgewandelt und Sie erhalten Zugriff auf sogenannte "I-Trips" und "We-Trips". 
 
 Der Vergütungsplan funktioniert wie als Titan-Partner.
 
-# Mitgliedschaftsgebühren nicht mehr zahlen
 
+# Mitgliedschaftsgebühren nicht mehr zahlen
 Sobald Sie drei Teampartner eingebracht haben wird Ihre Mitgliedschaftsgebühr bezahlt. Die Gebühr wird weiterhin als Reisepunkte umgewandelt und können wird gewohnt benutzt werden selbst ohne, dass Sie selber zahlen. So können Sie als Platinium-Partner kostenlos Reisen!
 
 # "I-Trips"
 
 "I-Trips" sind exklusive Aufenthalte in Hotels, Villen, Resorts und vielem mehr für P2S Travel Partner. Es gibt mehr als 4000 Aufenthalte auf der ganzen Welt, die 2 bis 10 Personen beherbergen können!
 
+<img class="d-block w-100 img-fluid" src="/assets/FrontPage/I-trip.png" alt="p2s travel I-trip dreamcations">
+
 Als Titan-Partner können Sie an einer Traumreise teilnehmen, indem Sie bis zu 75% des Preises mit Reisepunkten kaufen. Zum Beispiel, wenn der Aufenthalt 1000€ kostet, müssen Sie als Titan-Partner mindestens 250€ ohne Reisepunkte bezahlen.
 
-Als Platinium-Partner können Sie mit Reisepunkten bis zu 100% des Preises einkaufen!
+<img class="d-block w-100 img-fluid" src="/assets/FrontPage/India.jpg" alt="p2s travel I-trip dreamcations Titan Partner">
+
+Als Platinium-Partner können Sie mit Reisepunkten bis zu 100% des Preises einkaufen! Sie können gratis ins Urlaub!
 
 # "We-Trips"
 
