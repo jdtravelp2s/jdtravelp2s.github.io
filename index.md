@@ -9,41 +9,68 @@ title : JD P2S Travel
 
 **Help us plant more!**
 
-# Travel and save the world!
+# Wenn Zeit und Geld kein Frage wäre, was würden Sie unternehmen?
 
-Day dreaming about travelling the world, relaxing on beaches with cristal clear water, feeling the freezing air of mountains with the whitest of snow, exploring historical cities you've only read about in books. You open your eyes and reality hits you *'I can't afford such trips!'*. But a comforting though goes through your mind **_'I'm doing my part for the environment, if I don't travel I'm not releasing as much carbon dioxyde.'_**
+Wie oft reisen Sie im Jahr? Finden Sie es zu wenig? Was hält Sie zurück mehr zu reisen?
 
-**Don't you want to live your dreams while carying for the world?**
+# Willkommen bei P2S Travel
 
-You can achieve all your travel dreams and more if you read a little further!
+P2S Travel macht Reisen zugänglich für alle! 
 
-# How can you do both?
+P2S Travel wurde 2013 von David Hart gegründet und ist inzwischen in über 100 Ländern vertreten. Als privater Reiseclub, bietet P2S Travel die besten Preise sowie die besten Vergütungs Möglichkeiten weltweit. 
 
-A little while ago I joined P2S Travel, a company which primary goal is to make travelling affordable for everyone by providing discounts on hotel stays, boat cruises, car renting and more. Additionally it garanties a very good salary to those who are willing to enroll as partners and encourage others to do the same. Which is absolutely awesome! But wait! What about saving the world? If you travel more you're releasing more carbon dioxyde which contributes to global warming, that doesn't look good for natures future does it?
+# Wie ist das möglich?
 
-# The 'travel to plant trees' program
+Bestimmt sind Sie schon auf einige Reiseportale gewesen, jedes davon verspricht die besten Tarife, dennoch kann keiner von diesen Portale P2S Travel konkurrieren. Der Grund ist Werbung, alle Reiseportale machen Werbespots, Poster, Webseitenbanner usw. Diese Werbung kostet und hat einen direkten Einfluss auf den Buchungen der Kunden. Bei P2S Travel wird keine Werbung gemacht also wird auch nicht dafür bezahlt, dadurch werden deutlich bessere Preise erziehlt. P2S Travel wird von Migliedern bekannt gemacht. Da viel Werte auf das Wohlgehen unseren Mitgliedern gelegt wird, werden diese für das verbreiten des Reiseclubs bezahlt. Dazu später mehr.
 
-On top of all advantages P2S Travel offers, We started the travel to plant trees program. **10 trees** will be planted if you join as titanium member and **20 trees** if you join as a platinium member [join here](https://p2stravel.com/join/jdtravelp2s/). After you've subscribed **one tree** will be planted every month thanks to you. 
+# Beitreten
 
-**More details on P2S Travel [here](https://jdtravelp2s.github.io/2020/01/08/p2s-travel)**
- 
-If you're not ready to join now, feel free to check out [this site](https://thehotelsite.com/jdtravelp2s) on which every booked hotel room plants **5 trees**.
+Wenn Sie auf Mitglied Vorteile verzichten wollen und dennoch zu den besten Preisen reisen wollen, können Sie sich [hier kostenlos einschreiben](https://thehotelsite.com/jdp2stravel). Beim einschreiben entstehen keine Kosten, Sie bezahlen nur dann wenn Sie ein Hotel buchen und das zu den besten Preisen.
 
-# Money -> check! Save the world -> check!
+# Als Kunde beitreten
 
-What's your excuse now?
+Als Kunde treten Sie bei falls Sie nur am reisen interessiert sind. Damit haben Sie zugriff zum P2S Travel Portal und können dort nicht nur Hotels buchen sondern auch Flüge, Autovermietungen, Bootsfahrten, Urlaubsaktivitäten und vieles mehr. 
 
-You could be relaxing on this beach...
+Die Mitgliedschaft kostet 72€ im ersten Monat und 36€ in den darauffolgenden Monaten. Diese kosten gehen nicht verloren! Alles was Sie als Mitglied bezahlen werden als Reisepunkten umgewandelt. Diese Reisepunkte können Sie sofort benutzen oder ein Monat warten  
+damit diese verdoppelt werden. Wenn Sie im ersten Monat 72€ bezahlen entspricht das 79 Reisepunkten (Punkte werden in Dollar gezählt) im ersten Monat. Im zweiten Monat zahlen Sie 36€ (39$), bekommen 39 Reisepunkte und haben inzwischen schon 197 Punkte. Diese Punkte können jederzeit benutzt werden.
 
-<img class="d-block w-100 img-fluid" src="/assets/cottages-beach-r.jpg" alt="beach holidays">
+# Als Partner beitreten
 
-Exploring these mountains...
+## Titan-Partner
 
-<img class="d-block w-100 img-fluid" src="/assets/mountains-r.jpg" alt="snowy mountains">
+Ein Titan-Partner zu werden kostet 115€ im ersten Monat und 62€ / Monat nach dem ersten Monat. Damit erhalten Sie alle Partnerprivilegien: Zugriff auf die P2S Travel-Reservierungswebsite, eine kostenlose Reise, jede monatliche Gebühr wird in Reisepunkten umgewandelt und Sie erhalten Zugriff auf sogenannte "I-Trips" und "We-Trips". Dazu mehr weiter unten.
 
-And visiting any city you want...
+Zusätzlich können Sie vom Vergütungsplan profitieren und damit einen monatlichen Gehalt erziehlen (siehe Tabelle unten). Jede Person die mit Ihren Code P2S Travel als Kunde oder Partner beitretet bring Ihnen einen direkten Bonus ein. Je größer Ihr Team wird, desto höher wird Ihr monatlicher Gehalt. 
 
-<img class="d-block w-100 img-fluid" src="/assets/orange-powerboat-r.jpg" alt="Venice trip">
 
-Take action now and become a [P2S Travel partner!](https://p2stravel.com/join/jdtravelp2s)
+## Platinium-Partner
 
+Wenn Sie Platinium-Partner werden, kostet dies 225€ im ersten Monat und 115€ / Monat nach dem ersten Monat. Auch hier haben Sie Zugriff auf die Reservierungswebsite von P2S Travel, eine kostenlose Reise, jede monatliche Gebühr wird in Reisepunkten umgewandelt und Sie erhalten Zugriff auf sogenannte "I-Trips" und "We-Trips". 
+
+Der Vergütungsplan funktioniert wie als Titan-Partner.
+
+# Mitgliedschaftsgebühren nicht mehr zahlen
+
+Sobald Sie drei Teampartner eingebracht haben wird Ihre Mitgliedschaftsgebühr bezahlt. Die Gebühr wird weiterhin als Reisepunkte umgewandelt und können wird gewohnt benutzt werden selbst ohne, dass Sie selber zahlen. So können Sie als Platinium-Partner kostenlos Reisen!
+
+# "I-Trips"
+
+"I-Trips" sind exklusive Aufenthalte in Hotels, Villen, Resorts und vielem mehr für P2S Travel Partner. Es gibt mehr als 4000 Aufenthalte auf der ganzen Welt, die 2 bis 10 Personen beherbergen können!
+
+Als Titan-Partner können Sie an einer Traumreise teilnehmen, indem Sie bis zu 75% des Preises mit Reisepunkten kaufen. Zum Beispiel, wenn der Aufenthalt 1000€ kostet, müssen Sie als Titan-Partner mindestens 250€ ohne Reisepunkte bezahlen.
+
+Als Platinium-Partner können Sie mit Reisepunkten bis zu 100% des Preises einkaufen!
+
+# "We-Trips"
+
+"We-Trips" sind gruppen Aufflüge mit P2S Travel Partnern aus der ganzen Welt. Diese sind im Preis vorreduziert und können noch weiter reduziert werden indem Sie Reisepunkte benutzen. Hier gilt auch, Als Platinium-Partner erhalten Sie bessere vergünstigungen als Titan-Partner.
+
+Wie Uber die Welt des Personentransport revolutioniert hat, indem jeder zum Taxifahrer werden kann, revolutioniert P2S Travel die Reiseindustrie, indem jeder Partner ganz leicht ein Gehalt erziehlen kann indem man P2S Travel mit bekannten teilt.
+
+# Kunde werden!
+
+Um Kunde zu werden können Sie mich direkt per Mail oder auf Twitter und Instagram kontaktieren.
+
+# Partner werden!
+
+Um Partner zu werden können Sie sich [hier einschreiben](https://p2stravel.com/join/jdtravelp2s)
