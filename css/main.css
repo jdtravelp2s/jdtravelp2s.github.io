@@ -1,4 +1,8 @@
 
+body {
+	width: 100%;
+}
+
 nav {
 	padding-top: 0;
 	position: fixed !important;
@@ -55,15 +59,14 @@ nav {
 }
 
 main {
-	width: 100%;
+	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 3em;
+	padding-top: 7em;
 	padding-bottom: 2em;
 }
 
 p{
-	width: 90%;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: 120%;
 }
