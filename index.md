@@ -3,6 +3,8 @@ layout : default
 title : JD P2S Travel
 ---
 
+<img class="d-block w-100 img-fluid" src="/assets/P2S.png" alt="p2s travel">
+
 # Wenn Zeit und Geld keine Frage wäre, was würden Sie unternehmen?
 
 Wie oft reisen Sie im Jahr? Finden Sie es zu wenig? Was hält Sie zurück mehr zu reisen?
