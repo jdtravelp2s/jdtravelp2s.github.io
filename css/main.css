@@ -61,7 +61,8 @@ p{
 }
 
 .intro {
-	font: 400 100px/1.3 'Berkshire Swash', Helvetica, sans-serif;
+	font-family:'Berkshire Swash', Helvetica, sans-serif;
+	font-style: italic;
 }
 
 h1 {
