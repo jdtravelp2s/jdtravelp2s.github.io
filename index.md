@@ -7,7 +7,7 @@ title : JD P2S Travel
 
 <p class="intro">Wie Uber die Welt des Personentransport revolutioniert hat, indem jeder zum Taxifahrer werden kann, revolutioniert P2S Travel die Reiseindustrie, indem jeder Partner ganz leicht ein Gehalt erziehlen kann indem man P2S Travel mit bekannten teilt.</p>
 
-[See this in english!](https://jdtravelp2s.github.io/english/index-english.md)
+[See this in english!](https://jdtravelp2s.github.io/english/index-english)
 
 # Wenn Zeit und Geld keine Frage wäre, was würden Sie unternehmen?
 
