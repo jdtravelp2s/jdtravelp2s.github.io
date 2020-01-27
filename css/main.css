@@ -60,14 +60,14 @@ p{
 }
 
 h1 {
-	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-family:'Impact', 'Charcoal', 'sans-serif';
 	font-size: 200%;
 	font-weight: bold;
 	padding-top: 2em;
 }
 
 h2 {
-	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-family:'Impact', 'Charcoal', 'sans-serif';
 	font-size: 170%;
 	font-weight: bold;
 	padding-top: 2em;
@@ -108,14 +108,14 @@ ol {
 }
 
 .number {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family:'Impact', 'Charcoal', 'sans-serif';
 	font-size: 900%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 .number-desc {
-	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-family:'Impact', 'Charcoal', 'sans-serif';
 	font-size: 400%;
 	font-weight: bold;
 	margin-left: auto;
