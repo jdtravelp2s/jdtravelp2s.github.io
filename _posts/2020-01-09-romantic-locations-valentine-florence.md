@@ -2,9 +2,14 @@
 layout : post
 title : Romantic location for Valentine's Day Florence
 Date : 2020-01-09
+categories: [romantic valentin trip]
+tags: [trip, romantic, valentin]
+excerpt_separator: <!--more-->
 ---
 
 Did you already planned a trip for Valentine's Day? You don't have any clue on where to go? You are in luck, here is the second romantic place on our list!
+
+<!--more-->
 
 If you missed our trip to Marrakech here is a link to it:
 **[Part 1](https://jdtravelp2s.github.io/2020/01/02/romantic-locations-valentin-marrakech)**

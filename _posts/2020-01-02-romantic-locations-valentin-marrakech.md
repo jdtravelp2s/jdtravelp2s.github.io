@@ -2,9 +2,14 @@
 layout : post
 title : Romantic location for Valentine's Day Marrakech
 Date : 2020-01-03
+categories: [romantic valentin trip]
+tags: [trip, romantic, valentin]
+excerpt_separator: <!--more-->
 ---
 
 Did you already planned a trip for Valentine's Day? You don't have any clue on where to go? You are in luck, here are five romantic places you should travel to!
+
+<!--more-->
 
 # Marrakech
 
