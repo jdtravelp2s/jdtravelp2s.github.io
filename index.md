@@ -25,7 +25,7 @@ Bestimmt sind Sie schon auf einige Reiseportale gewesen, jedes davon verspricht 
 
 # Beitreten
 
-Wenn Sie auf Mitglied Vorteile verzichten wollen und dennoch zu den besten Preisen reisen wollen, können Sie sich [hier kostenlos einschreiben](https://thehotelsite.com/jdp2stravel). Beim einschreiben entstehen keine Kosten, Sie bezahlen nur dann wenn Sie ein Hotel buchen und das zu den besten Preisen.
+Wenn Sie auf Mitglied Vorteile verzichten wollen und dennoch zu den besten Preisen reisen wollen, können Sie sich [hier kostenlos einschreiben](https://thehotelsite.com/jdp2stravel). Beim einschreiben entstehen keine Kosten, Sie bezahlen nur dann wenn Sie ein Hotel buchen und das zu den besten Preisen. Zusätzlich, können Sie indem Sie diese Seite weiterempfehlen, Geld für Ihre Buchungen verdienen sowie kostenlose Reisen gewinnen! 
 
 <img class="d-block w-100 img-fluid" src="/assets/FrontPage/thehotelsite.png" alt="p2s travel the hotel site">
 
@@ -40,6 +40,10 @@ damit diese verdoppelt werden. Wenn Sie im ersten Monat 72€ bezahlen entsprich
 
 # Als Partner beitreten
 
+## Business-Partner
+
+Falls Ihnen das Reisen und die Rabate nicht interessieren können Sie dennoch als Business-Partner für 45€ im Jahr beitreten. Das gewährt Ihnen nur Zugang auf den Vergütungsplan. Sehen Sie die Details in der Tabelle weiter unten. Dabei ist zu beachten, dass Sie erst ab 1 star Director ein Gehalt erziehlen.
+
 ## Titan-Partner
 
 Ein Titan-Partner zu werden kostet 115€ im ersten Monat und 62€ / Monat nach dem ersten Monat. Damit erhalten Sie alle Partnerprivilegien: Zugriff auf die P2S Travel-Reservierungswebsite, eine kostenlose Reise, jede monatliche Gebühr wird in Reisepunkten umgewandelt und Sie erhalten Zugriff auf sogenannte "I-Trips" und "We-Trips". Dazu mehr weiter unten.
@@ -52,6 +56,96 @@ Wenn Sie Platinium-Partner werden, kostet dies 225€ im ersten Monat und 115€
 
 Der Vergütungsplan funktioniert wie als Titan-Partner.
 
+# Der Vergütungsplan
+
+<div style="overflow-x:auto;">
+    <table>
+    <tr>
+    <th class="tg-0lax">Position</th>
+    <th class="tg-0lax">Volum</th>
+    <th class="tg-0lax">Monat. Gehalt</th>
+    </tr>
+    <tr>
+    <td class="tg-0lax">Qualified 1/2</td>
+    <td class="tg-0lax">125/180</td>
+    <td class="tg-0lax">35€/63€</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">Director</td>
+    <td class="tg-0lax">285<br></td>
+    <td class="tg-0lax">113€</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">1 star Director</td>
+    <td class="tg-0lax">1200<br></td>
+    <td class="tg-0lax">267€+90€ bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">2 star Director</td>
+    <td class="tg-0lax">4000<br></td>
+    <td class="tg-0lax">668€+668€ bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">3 star Director</td>
+    <td class="tg-0lax">12000</td>
+    <td class="tg-0lax">1872€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">4 star Director</td>
+    <td class="tg-0lax">20000</td>
+    <td class="tg-0lax">2674€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">Ambassador</td>
+    <td class="tg-0lax">30000</td>
+    <td class="tg-0lax">3868€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">1 star Amb.</td>
+    <td class="tg-0lax">60000</td>
+    <td class="tg-0lax">6240€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">2 star Amb.</td>
+    <td class="tg-0lax">120000</td>
+    <td class="tg-0lax">8022€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">3 star Amb.</td>
+    <td class="tg-0lax">160000</td>
+    <td class="tg-0lax">10696€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">4 star Amb.</td>
+    <td class="tg-0lax">240000</td>
+    <td class="tg-0lax">16046€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">5 star Amb.</td>
+    <td class="tg-0lax">400000</td>
+    <td class="tg-0lax">21396€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">President Amb.</td>
+    <td class="tg-0lax">800000</td>
+    <td class="tg-0lax">42793€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">Chairman</td>
+    <td class="tg-0lax">1200000<br></td>
+    <td class="tg-0lax">64188€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">Chairman Exec</td>
+    <td class="tg-0lax">1800000</td>
+    <td class="tg-0lax">85599€+car bonus</td>
+    </tr>
+  </table>
+</div>
+
+## Volum
+
+Ihr Team-Volum ist nach Partner-Art unterschiedlich. Jeder Basic Kunde bringt Ihnen 25, Titan-Partner 45 und Platinum 80 Volum-Punkte. Business-Partner bringen keine Punkte. 
 
 # Mitgliedschaftsgebühren nicht mehr zahlen
 Sobald Sie drei Teampartner eingebracht haben wird Ihre Mitgliedschaftsgebühr bezahlt. Die Gebühr wird weiterhin als Reisepunkte umgewandelt und können wird gewohnt benutzt werden selbst ohne, dass Sie selber zahlen. So können Sie als Platinium-Partner kostenlos Reisen!

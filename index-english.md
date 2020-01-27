@@ -25,7 +25,7 @@ You have probably been to some travel portals, each of which promises the best p
 
 # To join
 
-If you want to forego member benefits and still want to travel at the best prices, you can [register here for free](https://thehotelsite.com/jdp2stravel). There are no costs when you register, you only pay when you book a hotel at the best prices.
+If you want to forego member benefits and still want to travel at the best prices, you can [register here for free](https://thehotelsite.com/jdp2stravel). There are no costs when you register, you only pay when you book a hotel at the best prices. In addition, by recommending this page, you can earn money for your future hotel stays and win free trips!
 
 <img class="d-block w-100 img-fluid" src="/assets/FrontPage/thehotelsite.png" alt="p2s travel the hotel site">
 
@@ -40,6 +40,10 @@ so that they are doubled. If you pay € 72 in the first month, this corresponds
 
 # Join as a partner
 
+## business partner
+
+If you are not interested in travel and discounts, you can still join as a business partner for € 45 a year. This only grants you access to the compensation plan. See the details in the spredsheet below.
+
 ## Titan partner
 
 Becoming a Titan partner costs € 115 the first month and € 62 / month after the first month. This gives you all partner privileges: access to the P2S Travel reservation website, a free trip, every monthly fee is converted into travel points and you get access to so-called "I-Trips" and "We-Trips". More on that below.
@@ -52,6 +56,96 @@ If you become a Platinium partner, this will cost € 225 the first month and �
 
 The compensation plan works like a Titan partner.
 
+# The compensation Plan
+
+<div style="overflow-x:auto;">
+    <table>
+    <tr>
+    <th class="tg-0lax">Position</th>
+    <th class="tg-0lax">Volume</th>
+    <th class="tg-0lax">Monthly Salary</th>
+    </tr>
+    <tr>
+    <td class="tg-0lax">Qualified 1/2</td>
+    <td class="tg-0lax">125/180</td>
+    <td class="tg-0lax">35€/63€</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">Director</td>
+    <td class="tg-0lax">285<br></td>
+    <td class="tg-0lax">113€</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">1 star Director</td>
+    <td class="tg-0lax">1200<br></td>
+    <td class="tg-0lax">267€+90€ bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">2 star Director</td>
+    <td class="tg-0lax">4000<br></td>
+    <td class="tg-0lax">668€+668€ bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">3 star Director</td>
+    <td class="tg-0lax">12000</td>
+    <td class="tg-0lax">1872€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">4 star Director</td>
+    <td class="tg-0lax">20000</td>
+    <td class="tg-0lax">2674€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">Ambassador</td>
+    <td class="tg-0lax">30000</td>
+    <td class="tg-0lax">3868€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">1 star Amb.</td>
+    <td class="tg-0lax">60000</td>
+    <td class="tg-0lax">6240€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">2 star Amb.</td>
+    <td class="tg-0lax">120000</td>
+    <td class="tg-0lax">8022€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">3 star Amb.</td>
+    <td class="tg-0lax">160000</td>
+    <td class="tg-0lax">10696€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">4 star Amb.</td>
+    <td class="tg-0lax">240000</td>
+    <td class="tg-0lax">16046€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">5 star Amb.</td>
+    <td class="tg-0lax">400000</td>
+    <td class="tg-0lax">21396€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">President Amb.</td>
+    <td class="tg-0lax">800000</td>
+    <td class="tg-0lax">42793€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">Chairman</td>
+    <td class="tg-0lax">1200000<br></td>
+    <td class="tg-0lax">64188€+car bonus</td>
+    </tr>
+    <tr>
+    <td class="tg-0lax">Chairman Exec</td>
+    <td class="tg-0lax">1800000</td>
+    <td class="tg-0lax">85599€+car bonus</td>
+    </tr>
+  </table>
+</div>
+
+## Volume
+
+Your team volume differs by partner type. Every Basic customer brings you 25, Titan-Partner 45 and Platinum 80 volume points. Business partners do not score points. Please note that you only earn a salary from 1 star director.
 
 # Stop paying membership fees
 
