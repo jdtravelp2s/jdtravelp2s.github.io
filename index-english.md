@@ -3,7 +3,7 @@ layout: default
 title: JD P2S Travel
 ---
 
-<img class = "d-block w-100 img-fluid" src = "/ assets / FrontPage / P2S.png" alt = "p2s travel">
+<img class="d-block w-100 img-fluid" src="/assets/FrontPage/P2S.png" alt="p2s travel">
 
 <p class="intro">Uber has revolutionized the world of transportation by giving everyone the possibility of becoming a taxi driver, P2S Travel is revolutionizing the travel industry by making it easy for each partner to earn a salary by sharing P2S Travel with people you know.</p>
 
@@ -25,9 +25,9 @@ You have probably been to some travel portals, each of which promises the best p
 
 # To join
 
-If you want to forego member benefits and still want to travel at the best prices, you can [register here for free] (https://thehotelsite.com/jdp2stravel). There are no costs when you register, you only pay when you book a hotel at the best prices.
+If you want to forego member benefits and still want to travel at the best prices, you can [register here for free](https://thehotelsite.com/jdp2stravel). There are no costs when you register, you only pay when you book a hotel at the best prices.
 
-<img class = "d-block w-100 img-fluid" src = "/ assets / FrontPage / thehotelsite.png" alt = "p2s travel the hotel site">
+<img class="d-block w-100 img-fluid" src="/assets/FrontPage/thehotelsite.png" alt="p2s travel the hotel site">
 
 # Join as a customer
 
@@ -36,7 +36,7 @@ As a customer, join if you are only interested in traveling. This gives you acce
 Membership costs € 72 in the first month and € 36 in the following months. These costs are not lost! Everything you pay as a member will be converted into travel points. You can use these travel points immediately or wait a month
 so that they are doubled. If you pay € 72 in the first month, this corresponds to 79 travel points (points are counted in dollars) in the first month. In the second month you pay € 36 ($ 39), get 39 travel points and now have 197 points. These points can be used at any time.
 
-<img class = "d-block w-100 img-fluid" src = "/ assets / FrontPage / P2SBooking.png" alt = "p2s travel booking">
+<img class="d-block w-100 img-fluid" src="/assets/FrontPage/P2SBooking.png" alt="p2s travel booking">
 
 # Join as a partner
 
@@ -61,11 +61,11 @@ As soon as you have brought in three team partners, your membership fee will be 
 
 "I-Trips" are exclusive stays in hotels, villas, resorts and much more for P2S Travel Partners. There are more than 4000 stays all around the world that can accommodate from 2 to 10 people!
 
-<img class = "d-block w-100 img-fluid" src = "/ assets / FrontPage / I-trip.png" alt = "p2s travel I-trip dreamcations">
+<img class="d-block w-100 img-fluid" src="/assets/FrontPage/I-trip.png" alt="p2s travel I-trip dreamcations">
 
 As a Titan partner, you can participate in a dream trip by buying up to 75% of the price with travel points. For example, if the stay costs € 1000, as a Titan partner you have to pay at least € 250 without travel points.
 
-<img class = "d-block w-100 img-fluid" src = "/ assets / FrontPage / India.jpg" alt = "p2s travel I-trip dreamcations Titan Partner">
+<img class="d-block w-100 img-fluid" src="/assets/FrontPage/India.jpg" alt="p2s travel I-trip dreamcations Titan Partner">
 
 As a Platinium partner, you can buy up to 100% of the price with travel points! You can go on vacation for free!
 
