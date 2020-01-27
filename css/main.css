@@ -61,16 +61,17 @@ p{
 }
 
 h1 {
-	font-family:'Impact', 'Charcoal', 'sans-serif';
+	font-family:'Impact Full', 'Charcoal', 'sans-serif';
 	font-size: 200%;
-	font-weight: 800;
+	font-weight: 900;
 	padding-top: 2em;
 }
 
 h2 {
-	font-family:'Impact', 'Charcoal', 'sans-serif';
+	font-family:'Impact Full', 'Charcoal', 'sans-serif';
+	font-style: italic;
 	font-size: 170%;
-	font-weight: 800;
+	font-weight: 900;
 	padding-top: 2em;
 }
 
