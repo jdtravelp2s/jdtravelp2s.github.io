@@ -5,7 +5,7 @@ title: JD P2S Travel
 
 <img class = "d-block w-100 img-fluid" src = "/ assets / FrontPage / P2S.png" alt = "p2s travel">
 
-_Uber has revolutionized the world of transportation by giving everyone the possibility of becoming a taxi driver, P2S Travel is revolutionizing the travel industry by making it easy for each partner to earn a salary by sharing P2S Travel with people you know._
+<p class="intro">Uber has revolutionized the world of transportation by giving everyone the possibility of becoming a taxi driver, P2S Travel is revolutionizing the travel industry by making it easy for each partner to earn a salary by sharing P2S Travel with people you know.</p>
 
 [Auf Deutsch lesen!](https://jdtravelp2s.github.io/)
 

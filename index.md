@@ -5,7 +5,7 @@ title : JD P2S Travel
 
 <img class="d-block w-100 img-fluid" src="/assets/FrontPage/P2S.png" alt="p2s travel">
 
-_Wie Uber die Welt des Personentransport revolutioniert hat, indem jeder zum Taxifahrer werden kann, revolutioniert P2S Travel die Reiseindustrie, indem jeder Partner ganz leicht ein Gehalt erziehlen kann indem man P2S Travel mit bekannten teilt._
+<p class="intro">Wie Uber die Welt des Personentransport revolutioniert hat, indem jeder zum Taxifahrer werden kann, revolutioniert P2S Travel die Reiseindustrie, indem jeder Partner ganz leicht ein Gehalt erziehlen kann indem man P2S Travel mit bekannten teilt.</p>
 
 [See this in english!](https://jdtravelp2s.github.io/english/index-english.md)
 
