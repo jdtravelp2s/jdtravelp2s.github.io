@@ -59,7 +59,7 @@ The compensation plan works like a Titan partner.
 # The compensation Plan
 
 <div style="overflow-x:auto;">
-    <table>
+    <table id="remun">
     <tr>
     <th class="tg-0lax">Position</th>
     <th class="tg-0lax">Volume</th>

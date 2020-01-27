@@ -59,7 +59,7 @@ Der Vergütungsplan funktioniert wie als Titan-Partner.
 # Der Vergütungsplan
 
 <div style="overflow-x:auto;">
-    <table>
+    <table id="remun">
     <tr>
     <th class="tg-0lax">Position</th>
     <th class="tg-0lax">Volum</th>
