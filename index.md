@@ -5,6 +5,10 @@ title : JD P2S Travel
 
 <img class="d-block w-100 img-fluid" src="/assets/FrontPage/P2S.png" alt="p2s travel">
 
+_Wie Uber die Welt des Personentransport revolutioniert hat, indem jeder zum Taxifahrer werden kann, revolutioniert P2S Travel die Reiseindustrie, indem jeder Partner ganz leicht ein Gehalt erziehlen kann indem man P2S Travel mit bekannten teilt._
+
+[See this in english!](https://jdtravelp2s.github.io/english/index-english.md)
+
 # Wenn Zeit und Geld keine Frage wäre, was würden Sie unternehmen?
 
 Wie oft reisen Sie im Jahr? Finden Sie es zu wenig? Was hält Sie zurück mehr zu reisen?
@@ -40,7 +44,7 @@ damit diese verdoppelt werden. Wenn Sie im ersten Monat 72€ bezahlen entsprich
 
 Ein Titan-Partner zu werden kostet 115€ im ersten Monat und 62€ / Monat nach dem ersten Monat. Damit erhalten Sie alle Partnerprivilegien: Zugriff auf die P2S Travel-Reservierungswebsite, eine kostenlose Reise, jede monatliche Gebühr wird in Reisepunkten umgewandelt und Sie erhalten Zugriff auf sogenannte "I-Trips" und "We-Trips". Dazu mehr weiter unten.
 
-Zusätzlich können Sie vom Vergütungsplan profitieren und damit einen monatlichen Gehalt erziehlen (siehe Tabelle unten). Jede Person die mit Ihren Code P2S Travel als Kunde oder Partner beitretet bring Ihnen einen direkten Bonus ein. Je größer Ihr Team wird, desto höher wird Ihr monatlicher Gehalt. 
+Zusätzlich können Sie vom Vergütungsplan profitieren und damit einen monatlichen Gehalt erziehlen. Jede Person die mit Ihren Code P2S Travel als Kunde oder Partner beitretet bring Ihnen einen direkten Bonus ein. Je größer Ihr Team wird, desto höher wird Ihr monatlicher Gehalt. 
 
 ## Platinium-Partner
 
@@ -68,12 +72,10 @@ Als Platinium-Partner können Sie mit Reisepunkten bis zu 100% des Preises einka
 
 "We-Trips" sind gruppen Aufflüge mit P2S Travel Partnern aus der ganzen Welt. Diese sind im Preis vorreduziert und können noch weiter reduziert werden indem Sie Reisepunkte benutzen. Hier gilt auch, Als Platinium-Partner erhalten Sie bessere vergünstigungen als Titan-Partner.
 
-Wie Uber die Welt des Personentransport revolutioniert hat, indem jeder zum Taxifahrer werden kann, revolutioniert P2S Travel die Reiseindustrie, indem jeder Partner ganz leicht ein Gehalt erziehlen kann indem man P2S Travel mit bekannten teilt.
-
 # Kunde werden!
 
 Um Kunde zu werden können Sie mich direkt per Mail oder auf Twitter und Instagram kontaktieren.
 
 # Partner werden!
 
-Um Partner zu werden können Sie sich [hier einschreiben](https://p2stravel.com/join/jdtravelp2s)
+Um Partner zu werden können Sie sich [hier einschreiben](https://p2stravel.com/join/jdtravelp2s).
