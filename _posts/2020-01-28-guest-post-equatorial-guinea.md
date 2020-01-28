@@ -13,11 +13,11 @@ excerpt_separator: <!--more-->
 
 Being the only Spanish-speaking country on the African continent, it is a unique land south of Cameron in central Africa. Until recently, its economy was exclusively based on oil and its derivatives. But recently, it has begun to open the doors to tourism. That puts Equatorial Guinea in a wonderful position for all nature-loving tourists and pioneers looking for unique adventures.
 
-<!-- more -->
-
-<img class="d-block w-100 img-fluid" src="/assets/guest-post/Equatorial-Guinea/02.jpeg" alt="Equatorial Guinea Sea">
+<!--more-->
 
 # Equatorial Guinea is sea
+
+<img class="d-block w-100 img-fluid" src="/assets/guest-post/Equatorial-Guinea/02.jpeg" alt="Equatorial Guinea Sea">
 
 They are the islands of Bioko, Annobon and Corisco. Their incredible landscape blends lush natural forests with unspoiled and unexplored beaches. In Equatorial Guinea you can discover how nature is beautiful and how it does not need man to provide dreamlike passages. 
 
@@ -46,4 +46,4 @@ _Equatorial Guinea is simply adventure._
 
 <img class="d-block w-100 img-fluid" src="/assets/guest-post/Equatorial-Guinea/05.jpg" alt="Equatorial Guinea">
 
-Many thanks to Rumbo Malabo for this wonderful insight of Equatorial Guinea! Be sure to check out his [twitter](https://twitter.com/RumboMalabo) and facebook(https://www.facebook.com/RumboMalabo-103678034359087/) too!
+Many thanks to Rumbo Malabo for this wonderful insight of Equatorial Guinea! Be sure to check out his [twitter](https://twitter.com/RumboMalabo) and [facebook]s(https://www.facebook.com/RumboMalabo-103678034359087/) too!
