@@ -46,4 +46,4 @@ _Equatorial Guinea is simply adventure._
 
 <img class="d-block w-100 img-fluid" src="/assets/guest-post/Equatorial-Guinea/05.jpg" alt="Equatorial Guinea">
 
-Many thanks to Rumbo Malabo for this wonderful insight of Equatorial Guinea! Be sure to check out his [twitter](https://twitter.com/RumboMalabo) and [facebook]s(https://www.facebook.com/RumboMalabo-103678034359087/) too!
+Many thanks to Rumbo Malabo for this wonderful insight of Equatorial Guinea! Be sure to check out his [twitter](https://twitter.com/RumboMalabo) and [facebook](https://www.facebook.com/RumboMalabo-103678034359087/) too!
