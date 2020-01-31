@@ -2,8 +2,8 @@
 layout : post
 title : Romantic location for Valentine's Day Marrakech
 Date : 2020-01-03
-categories: [romantic valentin trip]
-tags: [trip, romantic, valentin]
+categories: [romantic valentine trip]
+tags: [trip, romantic, valentine]
 excerpt_separator: <!--more-->
 ---
 

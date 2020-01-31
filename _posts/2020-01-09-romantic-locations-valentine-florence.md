@@ -2,8 +2,8 @@
 layout : post
 title : Romantic location for Valentine's Day Florence
 Date : 2020-01-09
-categories: [romantic valentin trip]
-tags: [trip, romantic, valentin]
+categories: [romantic valentine trip]
+tags: [trip, romantic, valentine]
 excerpt_separator: <!--more-->
 ---
 
@@ -46,4 +46,4 @@ Thank you for reading, I hope you enjoyed it! If you did and want to book your h
 
 I would be honored if you'd follow me on Twitter and Instagram.
 
-[Part 3 coming soon](#part3)
+[Part 3](https://jdtravelp2s.github.io/2020/01/31/romantic-locations-valentine-sechelles)
