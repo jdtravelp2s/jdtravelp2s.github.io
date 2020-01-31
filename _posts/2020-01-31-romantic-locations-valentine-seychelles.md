@@ -41,3 +41,7 @@ Of course, you can't end your trip without setting foot on La Digue. A location 
 
 
 <img class="d-block w-100 img-fluid" src="/assets/romantic-trip-2020/seychelles/la-digue.jpeg" alt="paradise beach la digue">
+
+Thank you for reading, I hope you enjoyed it! If you did and want to book your hotel stay in Seychelles, just [click here](https://thehotelsite.com/jdtravelp2s) to get good prices! Check out [this link](https://p2stravel.com/jdtravelp2s) and join P2S Travel to get even better discounts and make a living out of travelling.
+
+I would be honored if you'd follow me on Twitter and Instagram.

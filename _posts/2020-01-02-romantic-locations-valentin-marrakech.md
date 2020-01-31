@@ -52,4 +52,4 @@ Thank you for reading, I hope you enjoyed it! If you did and want to book your h
 
 I would be honored if you'd follow me on Twitter and Instagram.
 
-[Part 2 coming soon](#part2)
+[Part 2 coming soon](https://jdtravelp2s.github.io/2020/01/09/romantic-locations-valentine-florence)
