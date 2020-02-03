@@ -31,6 +31,8 @@ Wenn Sie auf Mitglied Vorteile verzichten wollen und dennoch zu den besten Preis
 
 # Als Kunde beitreten
 
+## Basis-Kunde
+
 Als Kunde treten Sie bei falls Sie nur am reisen interessiert sind. Damit haben Sie zugriff zum P2S Travel Portal und können dort nicht nur Hotels buchen sondern auch Flüge, Autovermietungen, Bootsfahrten, Urlaubsaktivitäten und vieles mehr. 
 
 Die Mitgliedschaft kostet 72€ im ersten Monat und 36€ in den darauffolgenden Monaten. Diese kosten gehen nicht verloren! Alles was Sie als Mitglied bezahlen werden als Reisepunkten umgewandelt. Diese Reisepunkte können Sie sofort benutzen oder ein Monat warten  
@@ -38,25 +40,23 @@ damit diese verdoppelt werden. Wenn Sie im ersten Monat 72€ bezahlen entsprich
 
 <img class="d-block w-100 img-fluid" src="/assets/FrontPage/P2SBooking.png" alt="p2s travel booking">
 
+## Titan-Kunde
+
+Ein Titan-Partner zu werden kostet 115€ im ersten Monat und 62€ / Monat nach dem ersten Monat. Damit erhalten Sie alle Partnerprivilegien: Zugriff auf die P2S Travel-Reservierungswebsite, eine kostenlose Reise, jede monatliche Gebühr wird in Reisepunkten umgewandelt und Sie erhalten Zugriff auf sogenannte "I-Trips" und "We-Trips". Dazu mehr weiter unten.
+
+## Platinium-Kunde
+
+Wenn Sie Platinium-Partner werden, kostet dies 225€ im ersten Monat und 115€ / Monat nach dem ersten Monat. Auch hier haben Sie Zugriff auf die Reservierungswebsite von P2S Travel, eine kostenlose Reise, jede monatliche Gebühr wird in Reisepunkten umgewandelt und Sie erhalten Zugriff auf sogenannte "I-Trips" und "We-Trips". 
+
 # Als Partner beitreten
 
 ## Business-Partner
 
-Falls Ihnen das Reisen und die Rabate nicht interessieren können Sie dennoch als Business-Partner für 45€ im Jahr beitreten. Das gewährt Ihnen nur Zugang auf den Vergütungsplan. Sehen Sie die Details in der Tabelle weiter unten. Dabei ist zu beachten, dass Sie erst ab 1 star Director ein Gehalt erziehlen.
+Falls Ihnen das Reisen und die Rabate nicht interessieren können Sie dennoch als Business-Partner für 50€ im Jahr beitreten. Das gewährt Ihnen nur Zugang auf den direkten Verkaufsbonus, das heißt 12.50€ pro Basis-Kunde, 25€ pro Titanium-Kunde und 50€ pro Platinium-Kunde.
 
-## Titan-Partner
+Zusätzlich können Sie vom Vergütungsplan profitieren wenn Sie gleichzeitig Kunde sind und damit einen monatlichen Gehalt erziehlen. Jede Person die mit Ihren Code P2S Travel als Kunde beitretet bring Ihnen einen direkten Bonus ein. Je größer Ihr Team wird, desto höher wird Ihr monatlicher Gehalt. 
 
-Ein Titan-Partner zu werden kostet 115€ im ersten Monat und 62€ / Monat nach dem ersten Monat. Damit erhalten Sie alle Partnerprivilegien: Zugriff auf die P2S Travel-Reservierungswebsite, eine kostenlose Reise, jede monatliche Gebühr wird in Reisepunkten umgewandelt und Sie erhalten Zugriff auf sogenannte "I-Trips" und "We-Trips". Dazu mehr weiter unten.
-
-Zusätzlich können Sie vom Vergütungsplan profitieren und damit einen monatlichen Gehalt erziehlen. Jede Person die mit Ihren Code P2S Travel als Kunde oder Partner beitretet bring Ihnen einen direkten Bonus ein. Je größer Ihr Team wird, desto höher wird Ihr monatlicher Gehalt. 
-
-## Platinium-Partner
-
-Wenn Sie Platinium-Partner werden, kostet dies 225€ im ersten Monat und 115€ / Monat nach dem ersten Monat. Auch hier haben Sie Zugriff auf die Reservierungswebsite von P2S Travel, eine kostenlose Reise, jede monatliche Gebühr wird in Reisepunkten umgewandelt und Sie erhalten Zugriff auf sogenannte "I-Trips" und "We-Trips". 
-
-Der Vergütungsplan funktioniert wie als Titan-Partner.
-
-# Der Vergütungsplan
+## Der Vergütungsplan
 
 <div style="overflow-x:auto;">
     <table id="remun">
@@ -147,9 +147,6 @@ Der Vergütungsplan funktioniert wie als Titan-Partner.
 
 Ihr Team-Volum ist nach Partner-Art unterschiedlich. Jeder Basic Kunde bringt Ihnen 25, Titan-Partner 45 und Platinum 80 Volum-Punkte. Business-Partner bringen keine Punkte. 
 
-# Mitgliedschaftsgebühren nicht mehr zahlen
-Sobald Sie drei Teampartner eingebracht haben wird Ihre Mitgliedschaftsgebühr bezahlt. Die Gebühr wird weiterhin als Reisepunkte umgewandelt und können wird gewohnt benutzt werden selbst ohne, dass Sie selber zahlen. So können Sie als Platinium-Partner kostenlos Reisen!
-
 # "I-Trips"
 
 "I-Trips" sind exklusive Aufenthalte in Hotels, Villen, Resorts und vielem mehr für P2S Travel Partner. Es gibt mehr als 4000 Aufenthalte auf der ganzen Welt, die 2 bis 10 Personen beherbergen können!
@@ -168,8 +165,8 @@ Als Platinium-Partner können Sie mit Reisepunkten bis zu 100% des Preises einka
 
 # Kunde werden!
 
-Um Kunde zu werden können Sie mich direkt per Mail oder auf Twitter und Instagram kontaktieren.
+Um Kunde zu werden können Sie sich [hier einschreiben](https://p2stravel.com/enroll/82668?C=y)
 
 # Partner werden!
 
-Um Partner zu werden können Sie sich [hier einschreiben](https://p2stravel.com/join/jdtravelp2s).
+Um Partner zu werden können Sie sich [hier einschreiben](https://p2stravel.com/enroll/82668?D=N).

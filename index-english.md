@@ -31,30 +31,30 @@ If you want to forego member benefits and still want to travel at the best price
 
 # Join as a customer
 
+## basic customer
+
 As a customer, join if you are only interested in traveling. This gives you access to the P2S Travel Portal, where you can not only book hotels, but also flights, car rentals, boat trips, holiday activities and much more.
 
 Membership costs € 72 in the first month and € 36 in the following months. These costs are not lost! Everything you pay as a member will be converted into travel points. You can use these travel points immediately or wait a month
 so that they are doubled. If you pay € 72 in the first month, this corresponds to 79 travel points (points are counted in dollars) in the first month. In the second month you pay € 36 ($ 39), get 39 travel points and now have 197 points. These points can be used at any time.
 
-<img class="d-block w-100 img-fluid" src="/assets/FrontPage/P2SBooking.png" alt="p2s travel booking">
+<img class = "d-block w-100 img-fluid" src = "/ assets / FrontPage / P2SBooking.png" alt = "p2s travel booking">
+
+## Titan customer
+
+Becoming a Titan partner costs € 115 the first month and € 62 / month after the first month. This gives you all partner privileges: access to the P2S Travel reservation website, a free trip, every monthly fee is converted into travel points and you get access to so-called "I-Trips" and "We-Trips". More on that below.
+
+## Platinium customer
+
+If you become a Platinium partner, this will cost € 225 the first month and € 115 / month after the first month. Again, you have access to the P2S Travel reservation website, a free trip, every monthly fee is converted into travel points and you get access to so-called "I-Trips" and "We-Trips".
 
 # Join as a partner
 
 ## business partner
 
-If you are not interested in travel and discounts, you can still join as a business partner for € 45 a year. This only grants you access to the compensation plan. See the details in the spredsheet below.
+If you are not interested in travel and discounts, you can still join as a business partner for € 50 a year. This only grants you access to the direct sales bonus, i.e. € 12.50 per basic customer, € 25 per Titanium customer and € 50 per Platinium customer.
 
-## Titan partner
-
-Becoming a Titan partner costs € 115 the first month and € 62 / month after the first month. This gives you all partner privileges: access to the P2S Travel reservation website, a free trip, every monthly fee is converted into travel points and you get access to so-called "I-Trips" and "We-Trips". More on that below.
-
-In addition, you can benefit from the compensation plan and thus earn a monthly salary. Every person who joins as a customer or partner with your code P2S Travel brings you a direct bonus. The bigger your team gets, the higher your monthly salary will be.
-
-## Platinum partner
-
-If you become a Platinium partner, this will cost € 225 the first month and € 115 / month after the first month. Again, you have access to the P2S Travel reservation website, a free trip, every monthly fee is converted into travel points and you get access to so-called "I-Trips" and "We-Trips".
-
-The compensation plan works like a Titan partner.
+In addition, you can benefit from the compensation plan if you are also a customer and thus earn a monthly salary. Every person who joins as a customer with your code P2S Travel brings you a direct bonus. The bigger your team gets, the higher your monthly salary will be.
 
 # The compensation Plan
 
@@ -145,11 +145,7 @@ The compensation plan works like a Titan partner.
 
 ## Volume
 
-Your team volume differs by partner type. Every Basic customer brings you 25, Titan-Partner 45 and Platinum 80 volume points. Business partners do not score points. Please note that you only earn a salary from 1 star director.
-
-# Stop paying membership fees
-
-As soon as you have brought in three team partners, your membership fee will be paid. The fee will continue to be converted into travel points and can be used as usual even without you having to pay. So you can travel for free as a Platinium partner!
+Your team volume differs by partner type. Every Basic customer brings you 25, Titan-Partner 45 and Platinum 80 volume points. Business partners do not score points.
 
 # "I-trips"
 
@@ -169,8 +165,8 @@ As a Platinium partner, you can buy up to 100% of the price with travel points! 
 
 # Become a customer!
 
-To become a customer you can contact me directly by email or on Twitter and Instagram.
+To become a customer you can [register here](https://p2stravel.com/enroll/82668?C=y).
 
 # Become a partner!
 
-To become a partner you can [register here](https://p2stravel.com/join/jdtravelp2s).
+To become a partner you can [register here](https://p2stravel.com/enroll/82668?D=N).
