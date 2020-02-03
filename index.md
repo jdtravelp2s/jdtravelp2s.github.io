@@ -56,7 +56,7 @@ Falls Ihnen das Reisen und die Rabate nicht interessieren können Sie dennoch al
 
 Zusätzlich können Sie vom Vergütungsplan profitieren wenn Sie gleichzeitig Kunde sind und damit einen monatlichen Gehalt erziehlen. Jede Person die mit Ihren Code P2S Travel als Kunde beitretet bring Ihnen einen direkten Bonus ein. Je größer Ihr Team wird, desto höher wird Ihr monatlicher Gehalt. 
 
-## Der Vergütungsplan
+## Vergütungsplan
 
 <div style="overflow-x:auto;">
     <table id="remun">
@@ -145,7 +145,7 @@ Zusätzlich können Sie vom Vergütungsplan profitieren wenn Sie gleichzeitig Ku
 
 ## Volum
 
-Ihr Team-Volum ist nach Partner-Art unterschiedlich. Jeder Basic Kunde bringt Ihnen 25, Titan-Partner 45 und Platinum 80 Volum-Punkte. Business-Partner bringen keine Punkte. 
+Ihr Team-Volum ist nach Partner-Art unterschiedlich. Jeder Basis Kunde bringt Ihnen 25, Titan-Partner 45 und Platinum 80 Volum-Punkte. Business-Partner bringen keine Punkte. 
 
 # "I-Trips"
 
@@ -170,3 +170,26 @@ Um Kunde zu werden können Sie sich [hier einschreiben](https://p2stravel.com/en
 # Partner werden!
 
 Um Partner zu werden können Sie sich [hier einschreiben](https://p2stravel.com/enroll/82668?D=N).
+
+# Häufig gestellte Fragen
+
+## Kann ich als Kunde Geld verdienen?
+
+Nein, Geld können Sie nur als Partner verdienen. Falls Sie schon Kunde sind, können Sie sich für 50€ als Partner einschreiben, damit haben Sie direkt am Vergütungsplan Zugang.
+
+## Ist die Vergütung für Basis-Partner gleich als für Platinium-Partner?
+
+Ja, die Vergütung ist genau gleich sobald Sie Partner und Kunde sind. 
+
+## Wie viele Kunden brauche ich um ein Gehalt zu erzielen?
+
+Dies ist je nach Kundenart unterschiedlich da Ihr gehalt von Ihrem Volumen Abhängt. Um 1 Star Director zu werden brauchen Sie 48 Basis-Kunden oder 27 Titanium-Kunden oder 15 Platinium-Kunden. Natürlich können Sie auch eine Mischung aus den dreien haben.
+
+## Wie wird meine Bezahlung ausgezahlt?
+
+Sobald Sie zwei Kunden eingebracht haben wird Ihnen eine Kreditkarte per Post zugeschickt, es ist deshalb wichtig Ihre Adresse richtig anzugeben. Diese Karte können Sie wie eine gewöhnliche Kreditkarte benutzen.
+
+# Weitere Fragen?
+
+Falls Sie weitere Fragen haben können Sie mich auf Instagram, Twitter oder per Mail kontaktieren.
+

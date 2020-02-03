@@ -170,3 +170,26 @@ To become a customer you can [register here](https://p2stravel.com/enroll/82668?
 # Become a partner!
 
 To become a partner you can [register here](https://p2stravel.com/enroll/82668?D=N).
+
+
+# Frequently asked Questions
+
+## Can I earn money as a customer?
+
+No, you can only earn money as a partner. If you are already a customer, you can register as a partner for € 50, which gives you direct access to the compensation plan.
+
+## Is the remuneration for basic partners the same as for Platinium partners?
+
+Yes, the remuneration is exactly the same as soon as you are partner and customer.
+
+## How many clients do I need to get a salary?
+
+This varies depending on the type of customer because your content depends on your volume. To become 1 Star Director you need 48 basic customers or 27 Titanium customers or 15 Platinium customers. Of course, you can also have a mixture of the three.
+
+## How is my payment paid out?
+
+As soon as you have brought in two customers, a credit card will be sent to you by post, so it is important to provide your address correctly. You can use this card like an ordinary credit card.
+
+# More questions?
+
+If you have further questions you can contact me on Instagram, Twitter or by email.
